@@ -6,10 +6,10 @@
 
 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/yuv-codes/hacktoberfest2024) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/yuv-codes/hacktoberfest2024)
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/yuv-codes/hacktoberfest2024)
-[![Hacktoberfest-2024](https://img.shields.io/static/v1.svg?label=Hacktoberfest-2024&message=accepted&color=red)](https://github.com/yuv-codes/hacktoberfest2024)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/yuv-codes/HacktoberFest) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/yuv-codes/HacktoberFest)
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/yuv-codes/HacktoberFest)
+[![Hacktoberfest-2024](https://img.shields.io/static/v1.svg?label=Hacktoberfest-2024&message=accepted&color=red)](https://github.com/yuv-codes/HacktoberFest)
 
 </div>
 
