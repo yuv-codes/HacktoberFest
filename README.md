@@ -86,7 +86,7 @@ Now submit the pull request.
 
 ### Don't forget to read the contributing rules mentioned below to be successfully merged your PR and get rewards!!!
 
-🏹 Visit <a href="hacktoberfest.com" target="_blank">Hacktoberfest</a> to get more information about Hacktoberfest 2023!!!
+🏹 Visit <a href="https://hacktoberfest.com" target="_blank">Hacktoberfest</a> to get more information about Hacktoberfest 2024!!!
 
 ✈ Visit <a href="https://hacktoberfest-swag.com" target="_blank">Hacktoberfest-swag</a> to know more about your swags and rewards!!!
 
