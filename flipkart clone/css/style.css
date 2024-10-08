@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+:root {
+    --main-bg-color: #2874f0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    
+    background-color: var(--main-bg-color);
+    color: white;
+    border: 2px solid black;
+}
+
+footer{
+    height: 10vh;
+    background-color: var(--main-bg-color);
+    color: white;
+    font-family: 'Lato', sans-serif;
+
+}
+
+nav{
+    display:flex;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.logo img{
+    width: 114px;
+}
+
+nav ul{
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-start;
+    height: 50px;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0px 23px
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+nav ul li a:hover{
+    font-weight: bold;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search input{
+    width: 30vw;
+    height: 27px;
+    border-radius: 4px;
+    border-color: black;
+    margin: 0 12px;
+}
+
+/* .search img{
+    height: 20px;
+    margin: 0px -80px;
+} */
+.search button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+
+
+main{
+    min-height: calc(100vh - 50px - 10vh);
+}
+
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.slider img{
+    padding-top: 5px;
+    height: 40vh;
+    width: 70vw;
+}
+
+.card{
+    padding-top: 5px;
+    max-width: 91vw;
+    margin: 37px auto;
+}
+
+.cards{
+    display: flex; 
+    overflow: hidden;
+}
+
+.card-item{
+    
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 15px;
+}
+
+.lines{
+    width: 10vw;
+    
+
+}
+.text-center{
+    text-align: center;
+}
