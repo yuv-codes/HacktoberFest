@@ -1,0 +1,38 @@
+Title: Calculate an average
+Author: DemonLove520
+Language: Python
+
+
+def calculate_average(numbers):
+    total_sum = 0  0
+    for number in numbers:
+        total_sum += number  
+    average = total_sum / len(numbers) 
+    return average
+
+
+def find_max(numbers):
+    max_value = numbers[0]  
+    for number in numbers:
+        if number > max_value:  
+            max_value = number
+    return max_value
+
+
+def find_min(numbers):
+    min_value = numbers[0]  
+    for number in numbers:
+        if number < min_value:  
+            min_value = number
+    return min_value
+
+
+numbers = [10, 25, 8, 32, 17, 5]
+
+average = calculate_average(numbers)
+max_value = find_max(numbers)
+min_value = find_min(numbers)
+
+print("Average:", average)
+print("Maximum value:", max_value)
+print("Minimum value:", min_value)
